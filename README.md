@@ -1,18 +1,147 @@
-# 💫 About Me:
-Web Developer Intern At Duo Dev Technologies<br>Open Source Developer and Mern Stack Intern At IIT ropar <br>AI ML Intern At Above Cloud 9 Technologies<br>->Creating AI and Rag Solutions<br>->Creating ML Models Based On Requirements<br>->Developed Multiple Full Stack Websites
+# 👋 Hi, I'm Dharaneswaran S  
 
+🚀 AI Backend Engineer | Generative AI Developer | Python Developer  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dharaneshwar_mac) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dharaneswaran S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharaneshwaransaravanan@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DharaneswaranS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DharaneswaranS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaneswaranS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📍 Tirupur, Tamil Nadu, India  
+📧 dharaneshwaransaravanan@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/dharaneswaran-s-3b5524270  
+💻 GitHub: https://github.com/DharaneswaranS  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DharaneswaranS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me  
+
+Backend-focused M.Tech Computer Science student with strong expertise in Python, Machine Learning, NLP, Deep Learning, and Generative AI.
+
+I specialize in building production-ready AI systems including:
+
+- Retrieval-Augmented Generation (RAG) applications  
+- AI Agents & Tool-Calling LLM systems  
+- Vector Search & Embedding pipelines  
+- Multimodal AI systems (OCR, Vision AI, TTS)  
+- Scalable AI backend architectures  
+
+I am actively seeking Entry-Level Software Developer / AI Backend Engineer roles.
+
+---
+
+## 🧠 Technical Skills  
+
+### 👨‍💻 Programming  
+- Python  
+- SQL  
+
+### ⚙️ Backend  
+- Flask  
+- FastAPI  
+- REST API Development  
+
+### 🤖 AI / GenAI  
+- LangChain  
+- LangGraph  
+- Hugging Face  
+- RAG Architecture  
+- Prompt Engineering  
+- Semantic Search  
+- Embeddings  
+
+### 🗄️ Databases  
+- MySQL  
+- PostgreSQL  
+- FAISS Vector Database  
+
+### 🌐 Web  
+- HTML  
+- CSS  
+
+### 🛠️ Tools  
+- Git  
+- GitHub  
+- Postman  
+
+---
+
+## 📌 Featured Projects  
+
+### 🔎 Unified RAG Knowledge Assistant  
+AI assistant that answers questions from PDF, JSON & text documents using vector search + LLM.
+
+**Tech Stack:** Python, LangChain, Hugging Face, Flask, Vector DB  
+
+👉 https://github.com/DharaneswaranS/Unified_RAG  
+
+---
+
+### 🛂 AI-Based Passport KYC Automation System  
+Automated passport verification using Computer Vision + OCR pipeline.
+
+**Tech Stack:** Python, Flask, OpenCV, YOLOv8, EasyOCR  
+
+👉 https://github.com/DharaneswaranS/Passport-Verification-System  
+
+---
+
+### 📄 PDFGPT  
+AI system that enables users to ask questions from uploaded PDFs.
+
+**Tech Stack:** Python, LangChain, Hugging Face, Flask  
+
+👉 https://github.com/DharaneswaranS/pdfgpt  
+
+---
+
+### 🤖 AI Multi-Tool Agent with RAG  
+LangGraph-based AI agent capable of dynamic tool invocation + knowledge retrieval.
+
+**Tech Stack:** Python, LangChain, LangGraph, FAISS, Groq LLM  
+
+👉 https://github.com/DharaneswaranS/ai-multi-tool-agent-rag  
+
+---
+
+## 💼 Experience  
+
+### 🧑‍💻 GenAI Developer Intern — AboveCloud9 AI  
+- Built production-ready RAG pipelines  
+- Worked on Transformers, GPT models & vector search  
+- Developed LLM-based applications  
+
+### 🌐 Full Stack Developer Intern — Duo Dev Technologies  
+- Developed responsive web applications  
+- Worked with HTML, CSS, JavaScript, PHP  
+- Recognized as Top Performer  
+
+---
+
+## 🎓 Education  
+
+🎓 M.Tech (Integrated) Computer Science Engineering  
+Erode Sengunthar Engineering College  
+CGPA: 8.80  
+
+---
+
+## 🏆 Achievements  
+
+- 2nd Prize — Site Sprint (Nandha Engineering College)  
+- NPTEL Elite Rank — Software Project Management  
+
+---
+
+## 📜 Certifications  
+
+- Model Context Protocol  
+- Complete RAG Bootcamp  
+- Python for Data Science  
+- SQL Certification  
+- Python & Flask Framework  
+- Software Project Management (NPTEL Elite)  
+
+---
+
+## 📫 Let's Connect  
+
+I am passionate about building real-world AI systems.  
+If you are working on GenAI / AI Backend / ML systems, feel free to collaborate 🚀  
+
+⭐ If you like my work, consider starring my repositories 🙂
