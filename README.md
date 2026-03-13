@@ -58,7 +58,6 @@ I am actively seeking Entry-Level Software Developer / AI Backend Engineer roles
 - Git  
 - GitHub  
 - Postman  
-
 ---
 
 ## 📌 Featured Projects  
