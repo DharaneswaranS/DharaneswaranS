@@ -24,7 +24,7 @@ I specialize in building production-ready AI systems including:
 I am actively seeking Entry-Level Software Developer / AI Backend Engineer roles.
 
 ---
-
+ 
 ## 🧠 Technical Skills  
 
 ### 👨‍💻 Programming  
