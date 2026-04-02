@@ -9,7 +9,7 @@
 Portfolio:  https://dharaneswarans.github.io/portfolio/ 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me   
 
 Backend-focused M.Tech Computer Science student with strong expertise in Python, Machine Learning, NLP, Deep Learning, and Generative AI.
 
